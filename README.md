@@ -18,7 +18,7 @@
 &nbsp;&nbsp;&nbsp; Настраиваю парсер с помощью Scrapy и запускаю его из командной строки с помощью команды  
 * scrapy runspider <имя файла с кодом>
 
-Код для сбора данных [no_people_no_wild.py]()
+Код для сбора данных [no_people_no_wild.py](https://github.com/Lara0Yu/test_task/blob/master/no_people_no_wild.py)
 
 ## 2) Дообучение предобученной сети
 
